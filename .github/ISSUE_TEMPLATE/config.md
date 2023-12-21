@@ -1,5 +1,5 @@
 ---
-name: NewBugReport
+name: config
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
